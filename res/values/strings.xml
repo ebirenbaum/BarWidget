@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic demo app strings -->
+    <string name="app_name">BarWidget</string>
+    
+    <!-- Demo app buttons -->
+    <string name="animate_button">Animate!</string>
+    <string name="reset_button">Reset!</string>
+    
+    <!-- Demo app configurable bar instructions -->
+    <string name="demo_bar_label">Customize your own!</string>
+    <string name="demo_bar_option_fill_text">Fill (out of 100):</string>
+    <string name="demo_bar_option_primary_color_text">Primary color:</string>
+    <string name="demo_bar_option_secondary_color_text">Secondary color:</string>
+    <string name="demo_bar_option_divider_text">Divider?</string>
+    <string name="demo_bar_option_vertical_text">Vertical?</string>
+    <string name="demo_bar_option_reversed_text">Reversed?</string>
+    <string name="demo_bar_option_animate_text">Animate?</string>
+    
+    <!-- Demo app basic bar information -->
+    <string name="basic_bars_label">Basic Bars:</string>
+    <string name="basic_bars_description">Bars can have varying dimensions, be solid/divided, 
+        and have different colors for the primary/secondary/divider portions.</string>
+        
+    <!-- Demo app vertical and reversed bar information -->
+    <string name="vertical_bars_label">Vertical/Reversed Bars:</string>
+    <string name="vertical_bars_description">Bars can be horizontal/vertical, and their orientation
+        can be \"reversed\". A reversed bar will flip it\'s primary (left/top) and secondary (bottom/right)
+        colors, and animations will run in the opposite direction.</string>
+        
+    <!-- Demo app animated bar information -->
+    <string name="animated_bars_label">Animated Bars:</string>
+    <string name="animated_bars_description">Bars can be told to animate when they are loaded,
+        or have their animations triggered on command. The length of the animation can be
+        given a custom duration. Animations also follow the \"reverse\" property.</string>
+
+</resources>

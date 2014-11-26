@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- Default demo sizes -->
+    <dimen name="label_font_size">24sp</dimen>
+    <dimen name="button_font_size">24sp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    
+    <!-- BarvView demo sizes -->
+    <dimen name="demo_bar_view_padding">4dp</dimen>
+    <dimen name="demo_bar_view_basic_height">36dp</dimen>
+    <dimen name="demo_bar_view_vertical_height">160dp</dimen>
+    
+    <!-- BarView default dimensions -->
+    <dimen name="bar_view_divider_width">4dp</dimen>
+
+</resources>

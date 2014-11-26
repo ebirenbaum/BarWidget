@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarView">
+        <attr name="vertical" format="boolean" />
+        <attr name="reversed" format="boolean" />
+        
+        <attr name="fillPercentage" format="float" />
+        <attr name="primaryColor" format="color" />
+        <attr name="secondaryColor" format="color" />
+        <attr name="showDivider" format="boolean" />
+        <attr name="dividerColor" format="color" />
+        
+        <attr name="animateOnLoad" format="boolean" />
+        <attr name="animationDuration" format="integer" />
+    </declare-styleable>
+</resources>
